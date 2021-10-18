@@ -1,2 +1,3 @@
 # stepik_auto_tests_course
-For course
+Тестовый проект на GitHub для обучения, по курсу автоматизации Web UI в связке Python + Selenium.
+Будет содержать несколько примеров решения задач из курса.
